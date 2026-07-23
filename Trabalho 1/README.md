@@ -10,4 +10,4 @@ Este trabalho realiza a resolução numérica de um problema de fronteira bidime
 
 ## Resultados e Verificações
 1. **Erro de Truncamento Local (ETL):** O desenvolvimento teórico da série de Taylor determinou a expressão analítica rigorosa para a flutuação do erro, confirmando que as variações estão atreladas a fatores periódicos transversais e caimentos exponenciais logitudinais do domínio físico.
-2. **Convergência:** Foram simuladas progressões de diminuição de malha, comprovando em escala logarítmica que a aproximação converge estritamente a $p pprox 1.99$, em concordância rigorosa com a referência teórica quadrática esperada.
+2. **Convergência:** Foram simuladas progressões de diminuição de malha, comprovando em escala logarítmica que a aproximação converge estritamente a $p \approx 1.99$, em concordância rigorosa com a referência teórica quadrática esperada.
