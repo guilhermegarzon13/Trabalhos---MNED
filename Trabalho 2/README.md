@@ -15,4 +15,4 @@ Modelagem complexa transformando derivadas Lagrangianas em um sistema de 4 equa�
 
 ## Observações Práticas
 - Retratos de fase ($\dot{q} \times q$) validaram visivelmente o escoamento ou acúmulo parasita de energia nos esquemas de Euler em contraste com órbitas conservativas precisas do RK4.
-- Análises no pêndulo duplo atestaram a natureza determinística, mas errática, onde ínfimas perturbações ($\Delta q pprox 0.01$) geram bifurcações imediatas na predição quando deflagradas fora do regime linear de pequenos ângulos.
+- Análises no pêndulo duplo atestaram a natureza determinística, mas errática, onde ínfimas perturbações ($\Delta q \approx 0.01$) geram bifurcações imediatas na predição quando deflagradas fora do regime linear de pequenos ângulos.
